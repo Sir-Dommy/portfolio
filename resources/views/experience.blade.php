@@ -23,7 +23,7 @@
 
         <div class="d-flex">
             <div class="card m-2 border-0 border-end">
-                <i>Intern - Web Developer Sitect Tel ltd • Feb 2021 – Mar 2022</i>
+                <i>Intern - Web Developer Sitect Tel ltd • Feb 2022 – Mar 2023</i>
                 <p><b>Duties:</b></p>
                 <ol class="list-group list-group-numbered">
                     <li>Analyzing business requirements.</li>
@@ -39,7 +39,7 @@
 
 
             <div class="card m-2 border-0 ">
-                <i>Software Developer Lixnet ltd • Feb 2023 – </i>
+                <i>Software Developer Lixnet ltd • Feb 2023 – Jan 2024</i>
                 <p><b>Duties:</b></p>
                 <ol class="list-group list-group-numbered">
                     <li>Analyzing business requirements.</li>
@@ -49,6 +49,19 @@
                     <li>Maintaining current systems</li>
                     <li>Managaging company cloud account</li>
                     <li>Client support</li>
+                </ol>
+            </div>
+
+            <div class="card m-2 border-0 ">
+                <i>Software Developer State Department of Labour and Skills Development • Dec 2023 – </i>
+                <p><b>Duties:</b></p>
+                <ol class="list-group list-group-numbered">
+                    <li>Analyzing business requirements.</li>
+                    <li>Project documentation from first phase of planning until maintenance and all tests</li>
+                    <li>Developing an internal recruitment system for the department</li>
+                    <li>Offering support and training on the developed systems</li>
+                    <li>Maintaining current systems</li>
+                    <li>Managaging company email server account</li>
                 </ol>
             </div>
         </div>
